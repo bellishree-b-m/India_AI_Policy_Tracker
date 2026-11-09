@@ -1,5 +1,6 @@
 AI policy tracking
-Project the tracks the governmetn AI policies, missions and implementation activities across 3 states: Maharashtra, Karnataka and Tamil Nadu.
+Project the tracks the governmetn AI policies, missions and implementation activities across 3 states: 
+Maharashtra, Karnataka and Tamil Nadu.
 
 Live dashboard:https://indiaaipolicytracker-7k3jdtt5fgrvlddyhvnkqf.streamlit.app/
 
